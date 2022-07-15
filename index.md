@@ -1,6 +1,6 @@
 ## Welcome to Two Wheel Tribe
 
-You can use the [editor on GitHub](https://github.com/APS-05-1996/my-site/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+A motor club in the artistic heartland of India, Awadh.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
