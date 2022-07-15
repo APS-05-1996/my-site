@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Two Wheel Tribe
 
 You can use the [editor on GitHub](https://github.com/APS-05-1996/my-site/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
